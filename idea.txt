@@ -38,7 +38,6 @@ Leveling up
   Going to use asheron's call xp system for leveling up. This way people dont level too fast
 
 
-
 Login screen.
 Make new account screen -> Username, password. Tell user not to forget password.
 Game screen: A *bunch* of settings. Inventory box. Fight button. Sell button. Challenge button.
